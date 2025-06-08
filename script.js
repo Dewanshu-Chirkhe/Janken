@@ -2,7 +2,7 @@ const choices = ["rock", "paper", "scissor"];
 const emojis = {
     rock: "\u270A",
     paper: "\u270B",
-    scissor: "\u270C",
+    scissor: "\u270C\uFE0F",
     default: "\u2754",
 };
 
